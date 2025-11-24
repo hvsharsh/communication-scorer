@@ -15,21 +15,23 @@ Backend runs on Python (FastAPI/Flask), and frontend is built using HTML, CSS, a
 
 ---
 
-## 📦 Project Structure
 
-1.)communication-scorer/
-   │
-   ├── backend/
-   │ ├── main.py # Backend scoring logic
-   │ ├── requirements.txt # Python dependencies
-   │ └── rubric.xlsx # Rubric sheet used for scoring
-   │
-2.)├── frontend/
-   │ ├── index.html # UI page
-   │ ├── script.js # API call + DOM logic
-   │ └── style.css # Styling
-   │
-3.)└── README.md
+## 📁 Project Structure
+
+```plaintext
+communication-scorer/
+│
+├── backend/
+│   ├── main.py              # Backend scoring logic
+│   ├── requirements.txt     # Python dependencies
+│   └── rubric.xlsx          # Rubric sheet used for scoring
+│
+├── frontend/
+│   ├── index.html           # UI page
+│   ├── script.js            # API call + DOM logic
+│   └── style.css            # Styling
+│
+└── README.md
 
 
 
