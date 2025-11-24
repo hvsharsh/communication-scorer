@@ -1,0 +1,4 @@
+body{font-family:Arial;margin:40px;}
+textarea{width:100%;height:220px;padding:10px;font-size:16px;}
+button{margin-top:15px;padding:10px 20px;font-size:18px;cursor:pointer;}
+#output{margin-top:30px;padding:20px;border:1px solid #ddd;}
